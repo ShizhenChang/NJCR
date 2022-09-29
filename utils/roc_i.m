@@ -1,6 +1,6 @@
 function [txt,Pf] = roc_i(resultImg,maskImg,dnum)
 %roc_i Calculate the roc of the predicted results
-%dataset
+%
 %   Input: resultImg = prediction result of the algorithm dimension = (1*n)
 %          maskImg = gt dimension = (1*n)
 %          dnum = number of anomaly pixels
