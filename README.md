@@ -41,7 +41,7 @@ Please cite our paper if you find it useful for your research.
 ```
 
 ## Acknowledgment
-The authors would like to express their thanks to the authors and the creators of [Ncut](http://timotheecour.com/software/ncut/ncut.html) and cluster_dp for releasing their packages.
+The authors would like to express their thanks to the authors and the creators of [Ncut](http://timotheecour.com/software/ncut/ncut.html) and [cluster_dp](https://github.com/alanse7en/cluster_dp) for releasing their packages.
 
 Please note that if implementing the `Ncut_9` in Matlab R2015b, the 81st line of ncut.m should be modified to:
 
