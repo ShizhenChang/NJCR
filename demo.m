@@ -1,5 +1,5 @@
 clear;
-%addpath '/Users/ehsanelhamifar/Documents/MatlabCode/SSC_motion_face/';
+
 load('data/Sandiego.mat');
 p = size(Sandiego);
 gt = reshape(Sandiego_gt, p(1)*p(2), 1);
