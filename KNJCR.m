@@ -1,6 +1,5 @@
 function [alpha] = KNJCR(data, D, k_width, lambda, thr, maxIter)
-%const_dic Construct the background and anomaly subdictionaries of the
-%dataset
+%
 %   Input: data = data matrix, feature dimensions-by-number of samples (L*N)
 %          D = Dictionary
 %          k_width = the kernel width of the KNJCR;
