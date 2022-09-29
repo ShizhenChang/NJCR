@@ -47,4 +47,4 @@ Please note that if implementing the `Ncut_9` in Matlab R2015b, the 81st line of
 [vbar,s,convergence] = eigs(@mex_w_times_x_symmetric,size(P,1),nbEigenValues,'LA',options,tril(P)); 
 ```
 ## Notice
-This demo is distributed under MIT License and is released for scientific purposes only.
+This demo is distributed under [MIT License](LICENSE) and is released for scientific purposes only.
