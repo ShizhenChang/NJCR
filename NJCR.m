@@ -1,6 +1,5 @@
 function [alpha] = NJCR(data, D, lambda, thr, maxIter)
-%const_dic Construct the background and anomaly subdictionaries of the
-%dataset
+%
 %   Input: data = data matrix, feature dimensions-by-number of samples (L*N)
 %          D = Dictionary
 %          lambda = penalty scalar of the objective function;
