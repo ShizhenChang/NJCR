@@ -2,7 +2,7 @@
 
 This is a demo of this work implemented in Matlab, written by Shizhen Chang and [Pedram Ghamisi](https://www.pedram-ghamisi.com/).
 
-![](Figure/Flowchart.jpg)
+![](Figure/flowchart.pdf)
 
 For more details, please refer to our paper: [Nonnegative-Constrained Joint Collaborative Representation With Union Dictionary for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/9845465)
 
