@@ -36,8 +36,8 @@ Please cite our paper if you find it is useful for your research.
   volume={60},
   number={},
   pages={1-13},
-  doi={10.1109/TGRS.2022.3195339}}
-
+  doi={10.1109/TGRS.2022.3195339}
+  }
 ```
 
 ## Acknowledgment
